@@ -1,0 +1,25 @@
+1. Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')
+2. Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')
+3. Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
+4. Unrestricted Upload of File with Dangerous Type
+5. Cross-Site Request Forgery (CSRF)
+6. URL Redirection to Untrusted Site ('Open Redirect')
+7. Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')
+8. Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')
+9. Download of Code Without Integrity Check
+10. Inclusion of Functionality from Untrusted Control Sphere
+11. Use of Potentially Dangerous Function
+12. Incorrect Calculation of Buffer Size
+13. Uncontrolled Format String
+14. Integer Overflow or Wraparound
+15. Missing Authentication for Critical Function
+16. Missing Authorization
+17. Use of Hard-coded Credentials
+18. Missing Encryption of Sensitive Data
+19. Reliance on Untrusted Inputs in a Security Decision
+20. Execution with Unnecessary Privileges
+21. Incorrect Authorization
+22. Incorrect Permission Assignment for Critical Resource
+23. Use of a Broken or Risky Cryptographic Algorithm
+24. Improper Restriction of Excessive Authentication Attempts
+25. Use of a One-Way Hash without a Salt
